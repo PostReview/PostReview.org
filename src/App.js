@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="flex flex-col bg-black min-h-screen">
       <header className="m-6 bg-black text-white ">
-        <h1 className="text-xl"> &#9439; PostReview</h1>
+        <h1 className="text-3xl"> &#9439; PostReview</h1>
       </header>
       <main className="bg-black">
         <div
